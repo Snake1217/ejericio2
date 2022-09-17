@@ -1,0 +1,64 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <section class="Panel">
+        <div class="subpanel">
+            <img src="https://snake1217.neocities.org/imagenes/FotoPersonal.jpeg" alt="FotoPerfil" class="Foto">
+            <a href="mailto:juanjos.1217@gmail.com" class="email">juanjos.1217@gmail.com</a>
+            <a target="_blank" href="https://github.com/Snake1217/Repositorio">https://github.com/Snake1217/Repositorio</a>
+        </div>
+    </section>
+        <section class="Contenido">
+            <div>
+                <h1 class="Nombbre">Juan José Jiménez Molina</h1>
+                <h2 class="ocupacion">Estudiante</h2>
+            </div>
+        </section>
+        <section class="subcontenido">
+            <div>
+                <article class="consulta">
+                    <h2 class="con">Consultas</h2>
+                <ul>
+                    <a class="c1" href="https://snake1217.neocities.org/Consulta/index.html">consulta 1</a>
+                    <a class="c2" href="https://snake1217.neocities.org/Consulta/consulta2.html">consulta 2</a>
+                    <a class="c3" href="">consulta 3</a>
+                    <a class="c4" href="">consulta 4</a>
+                </ul>
+                </article>
+                <article class="diseños">
+                    <h2 class="dis">Diseños</h2>
+                    <a class="d1" target="_blank" href="https://www.figma.com/file/VmasU5LbPPaOUHptcAItqJ/HojaDeVida?node-id=0%3A1">Hoja de vida</a>
+                    <a class="d2" target="_blank" href="https://www.figma.com/file/TjehlDDnca9R3ig8CwFJGD/Portafolio?node-id=0%3A1">Portafolio</a>
+                    <a class="d3" href="https://www.figma.com/proto/vBptf5DUAJYIXvx6tx8U2o/FarmaDe?node-id=12%3A40&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A40">Farma</a>
+                    <a class="d4" href="">diseño 4</a>
+                </article>
+                <article class="retos">
+                    <h2 class="ret">Retos</h2>
+                    <a class="r1" href="">Reto 1</a>
+                    <a class="r2" href="">Reto 2</a>
+                    <a class="r3" href="">Reto 3</a>
+                    <a class="r4" href="">Reto 4</a>
+                </article>
+                <article class="talleres">
+                    <h2 class="tall">Talleres</h2>
+                    <a class="t1" href="https://snake1217.neocities.org/hojavida/hojadevida.html">Hoja de vida</a>
+                    <a class="t2" href="">Taller 2</a>
+                    <a class="t3" href="">Taller 3</a>
+                    <a class="t4" href="">Taller 4</a>
+                </article>
+            </div>
+        </section>
+        <footer>
+            <div class="logo">
+                <img src="https://snake1217.neocities.org/imagenes/neocities.jpeg" alt="LogoNeocites">
+                <img src="https://snake1217.neocities.org/imagenes/logoUniversidad.png" alt="logoUniversidad">
+            </div>
+        </footer>
+</body>
+</html>

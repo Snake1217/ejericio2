@@ -1,0 +1,286 @@
+body{
+background-color: azure;
+
+}
+
+.subpanel{
+
+width: 30%;
+height: 1024px;
+left: -9px;
+top: 0px;
+background: #4F4D4D;
+
+}
+
+
+.subpanel img{
+margin:10px;
+width: 90%;
+height: 369px;
+border-radius: 2rem;
+
+} 
+
+.email{
+    color:#82859B;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    left: 92px;
+    top: 432px;
+    font-size: 20px;
+}
+
+.email:hover{
+    color: yellow;
+}
+div a{
+color:#82859B;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 344px;
+height: 32px;
+left: 92px;
+top: 500px;
+font-size: 20px;
+}
+
+div a:hover{
+    color: yellow;
+}
+
+div h1{
+position: absolute;
+width: 594px;
+height: 56px;
+left: 458px;
+top: 41px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+color: #000000;
+}
+
+.ocupacion{
+    position: absolute;
+    width: 246px;
+    height: 37px;
+    left: 458px;
+    top: 112px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    color: #82859B;
+}
+div article{
+    background: #b4b0b0;
+    border-radius: 10px;
+    display: flex;
+}
+.consulta{
+    position: absolute;
+    width: 181px;
+    height: 286px;
+    left: 543px;
+    top: 311px;
+}
+
+.diseños{
+    position: absolute;
+    width: 181px;
+    height: 286px;
+    left: 767px;
+    top: 311px;
+}
+
+.retos{
+    position: absolute;
+    width: 181px;
+    height: 286px;
+    left: 992px;
+    top: 311px;
+}
+
+.talleres{
+    position: absolute;
+    width: 181px;
+    height: 286px;
+    left: 1217px;
+    top: 312px;
+}
+
+.con{
+    width: 181px;
+    height: 286px;
+    left: 543px;
+    top: 311px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+div h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    text-shadow: 5px 5px 5px rgb(122, 122, 134);
+    padding-left: 40px;
+}
+.dis{
+    width: 181px;
+    height: 286px;
+    left: 767px;
+    top: 311px;
+    font-family: 'Poppins';
+    font-style: normal;
+    
+}
+
+.ret{
+    width: 181px;
+    height: 286px;
+    left: 992px;
+    top: 311px;
+    font-family: 'Poppins';
+    font-style: normal;
+    
+}
+
+.tall{
+    width: 181px;
+    height: 286px;
+    left: 1217px;
+    top: 312px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+.c1{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 20px;
+}
+.c2{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 70px;
+}
+.c3{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 120px;
+}
+.c4{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 170px;
+}
+
+.d1{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 20px;
+}
+.d2{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 70px;
+}
+.d3{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 120px;
+}
+.d4{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 170px;
+}
+
+.r1{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 20px;
+}
+
+.r2{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 70px;
+}
+
+.r3{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 120px;
+}
+
+.r4{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 170px;
+}
+
+.t1{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 20px;
+}
+
+.t2{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 70px;
+}
+.t3{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 120px;
+}
+.t4{
+    width: 171px;
+    height: 120px;
+    left: 50px;
+    top: 170px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 350px;
+    height: 100px;
+    left: 1000px;
+    top: 870px;
+    
+}
+
+.logo img{
+    width: 168px;
+    height: 139px;
+
+}
