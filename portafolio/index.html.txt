@@ -1,0 +1,110 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <div class="panelP">
+            <div class="foto">
+                <img src="https://snake1217.neocities.org/imagenes/FotoPersonal.jpeg" alt="FotoPersonal" class="fotografia">
+            </div>
+            <div class="info">
+               <H3 class="nombre">JUAN JOSÉ JIMÉNEZ MOLINA</H3>
+               <H3 class="nombre">ESTUDIANTE</H3>
+            </div>
+            <section>
+                <div class="info">
+                    <a target="_blank" href="https://github.com/Snake1217">GITHUB</a>
+                </div>
+                <div class="info">
+                    <a  href="mailto:juanjos.1217@gmail.com">CONTACTO</a>
+                </div>
+            </section>
+        </div>
+        <section class="subPanel">
+         <div class="caja">
+            <div class="consultas">
+                <h3>
+                    Consultas
+                </h3>
+            </div>
+            <div class="consultas">
+                <a href="https://snake1217.neocities.org/Consulta/index.html">Consulta 1</a>
+            </div>
+            <div class="consultas">
+                <a href="https://snake1217.neocities.org/Consulta/consulta2.html">Consulta 2</a>
+            </div>
+            <div class="consultas">
+                <a href="">Consulta 3</a>
+            </div>
+            <div class="consultas">
+                <a href="">Consulta 4</a>
+            </div>
+         </div>
+         <div class="caja">
+            <div class="diseños">
+                <h3>
+                    Diseños
+                </h3>
+            </div>
+            <div class="diseños">
+                <a target="_blank" href="https://www.figma.com/file/TjehlDDnca9R3ig8CwFJGD/Portafolio?node-id=0%3A1">Diseño 1</a>
+            </div>
+            <div class="diseños">
+                <a target="_blank" href="https://www.figma.com/file/VmasU5LbPPaOUHptcAItqJ/HojaDeVida?node-id=0%3A1">Diseño 2</a>
+            </div>
+            <div class="diseños">
+                <a href="">Diseño 3</a>
+            </div>
+            <div class="diseños">
+                <a href="">Diseño 4</a>
+            </div>
+         </div>
+         <div class="caja">
+            <div class="retos">
+                <h3>
+                    Retos
+                </h3>
+            </div>
+            <div class="retos">
+                <a href="https://snake1217.neocities.org/Retos/CalculadoraIMC.html">Reto 1</a>
+            </div>
+            <div class="retos">
+                <a href="https://snake1217.neocities.org/Retos/Calculadora.html">Reto 2</a>
+            </div>
+            <div class="retos">
+                <a href="https://snake1217.neocities.org/talleres/netflix.html">Reto 3</a>
+            </div>
+            <div class="retos">
+                <a href="">Reto 4</a>
+            </div>
+         </div>
+         <div class="caja">
+            <div class="talleres">
+                <h3>
+                    Talleres
+                </h3>
+            </div>
+            <div class="talleres">
+                <a href="https://snake1217.neocities.org/hojavida/hojadevida.html">Taller 1</a>
+            </div>
+            <div class="talleres">
+                <a href="https://snake1217.neocities.org/juego%20de%20memoria/index.html">Taller 2</a>
+            </div>
+            <div class="talleres">
+                <a href="https://snake1217.neocities.org/JS/index.html">Taller 3</a>
+            </div>
+            <div class="talleres">
+                <a href="">Taller 4</a>
+            </div>
+            <div class="talleres">
+                <a href="">Taller 5</a>
+         </div>
+        </section>
+    </header>
+</body>
+</html>
